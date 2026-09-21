@@ -1,5 +1,5 @@
 import { Suspense, lazy } from 'react'
-import { BrowserRouter, Routes, Route, Link, useLocation } from 'react-router-dom'
+import { HashRouter, Routes, Route, Link, useLocation } from 'react-router-dom'
 import Home from './pages/Home'
 import Quiz from './pages/Quiz'
 import FreeAnswer from './pages/FreeAnswer'
@@ -41,7 +41,7 @@ function Header() {
 
 export default function App() {
   return (
-    <BrowserRouter>
+    <HashRouter>
       <div className="mx-auto flex min-h-screen w-full max-w-xl flex-col bg-[var(--color-bg)]">
         <Header />
         <main className="flex-1 px-4 pt-4">
@@ -63,6 +63,6 @@ export default function App() {
         </main>
         <BottomNav />
       </div>
-    </BrowserRouter>
+    </HashRouter>
   )
 }
