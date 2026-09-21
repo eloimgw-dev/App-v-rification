@@ -12,14 +12,38 @@ function shuffle<T>(arr: T[]): T[] {
   return a
 }
 
+function extractKeywords(text: string): Set<string> {
+  const norm = applySynonyms(normalize(text))
+  return new Set(norm.split(' ').filter((w) => w.length >= 4 && !STOPWORDS.has(w)))
+}
+
+function overlapScore(a: Set<string>, b: Set<string>): number {
+  let n = 0
+  for (const w of a) if (b.has(w)) n++
+  return n
+}
+
 /**
- * Génère les propositions d'un QCM. La mauvaise réponse est toujours une
- * réponse OFFICIELLE d'une autre question de la banque (jamais une réponse
- * inventée), ce qui garantit un contenu plausible et fidèle au document.
+ * Génère les propositions d'un QCM. Les mauvaises réponses sont toujours des
+ * réponses OFFICIELLES d'autres questions de la banque (jamais inventées),
+ * choisies en priorité parmi celles qui partagent du vocabulaire avec la
+ * question posée (même thème, même objet du véhicule, même geste…) plutôt
+ * qu'au hasard dans toute la catégorie : cela évite des distracteurs trop
+ * évidemment hors-sujet et rend le QCM réellement discriminant.
  */
 export function generateQcmOptions(question: Question, count = 4): Proposition[] {
   const correct = question.reponse_officielle.trim()
-  const pool = QUESTIONS.filter(
+  const targetQuestionKeywords = extractKeywords(question.question)
+  const targetAnswerKeywords = extractKeywords(question.reponse_officielle)
+
+  function relevance(q: Question): number {
+    return (
+      overlapScore(targetQuestionKeywords, extractKeywords(q.question)) * 2 +
+      overlapScore(targetAnswerKeywords, extractKeywords(q.reponse_officielle))
+    )
+  }
+
+  const sameCategoryPool = QUESTIONS.filter(
     (q) =>
       q.id !== question.id &&
       q.categorie === question.categorie &&
@@ -27,14 +51,32 @@ export function generateQcmOptions(question: Question, count = 4): Proposition[]
       q.reponse_officielle.trim() !== correct,
   )
 
+  const scored = sameCategoryPool
+    .map((q) => ({ q, score: relevance(q) }))
+    .sort((a, b) => b.score - a.score)
+
   const distractorTexts = new Set<string>()
-  for (const q of shuffle(pool)) {
+
+  // 1) Distracteurs thématiquement proches (vocabulaire partagé avec la
+  //    question) : on garde une marge de candidats pour tirer au sort parmi
+  //    les plus pertinents plutôt que de toujours proposer les 3 mêmes.
+  const relevant = scored.filter((s) => s.score > 0)
+  const shortlist = shuffle(relevant.slice(0, Math.max(count * 3, 6)))
+  for (const { q } of shortlist) {
     if (distractorTexts.size >= count - 1) break
     distractorTexts.add(q.reponse_officielle.trim())
   }
 
-  // Repli : si la catégorie n'a pas assez d'autres réponses (rare), on complète
-  // avec des réponses d'autres catégories plutôt que d'inventer du contenu.
+  // 2) Repli : complète avec des réponses de la même catégorie tirées au
+  //    hasard si le vocabulaire partagé ne suffit pas à remplir le QCM.
+  if (distractorTexts.size < count - 1) {
+    for (const q of shuffle(sameCategoryPool)) {
+      if (distractorTexts.size >= count - 1) break
+      distractorTexts.add(q.reponse_officielle.trim())
+    }
+  }
+
+  // 3) Dernier repli : d'autres catégories, plutôt que d'inventer du contenu.
   if (distractorTexts.size < count - 1) {
     const fallbackPool = QUESTIONS.filter(
       (q) => q.id !== question.id && q.gradable && q.reponse_officielle.trim() !== correct,
