@@ -1,0 +1,2056 @@
+[
+  {
+    "id": "VT-001",
+    "categorie": "verifications_techniques",
+    "type_verif": "VI",
+    "question": "Montrez la commande de réglage de hauteur des feux.",
+    "reponse_officielle": "Dispositif situé en général à gauche du volant.",
+    "gradable": true,
+    "page_source": [
+      "01",
+      "65"
+    ],
+    "nb_occurrences": 2
+  },
+  {
+    "id": "VT-002",
+    "categorie": "verifications_techniques",
+    "type_verif": "VE",
+    "question": "Montrez où s'effectue le remplissage du produit lave-glace.",
+    "reponse_officielle": "Le candidat ouvre le capot et montre le bocal. Si le candidat a des difficultés pour ouvrir le capot, l'accompagnateur peut lui indiquer comment procéder.",
+    "gradable": true,
+    "page_source": [
+      "02"
+    ],
+    "nb_occurrences": 1
+  },
+  {
+    "id": "VT-003",
+    "categorie": "verifications_techniques",
+    "type_verif": "VI",
+    "question": "Mettez le rétroviseur intérieur en position \"nuit\".",
+    "reponse_officielle": "Si le rétroviseur de l'accompagnateur gêne la manipulation du dispositif, l'explication suffit. Si le véhicule possède un système automatique de mise en position \"nuit\" du rétroviseur intérieur, le candidat l'indique.",
+    "gradable": true,
+    "page_source": [
+      "03",
+      "67"
+    ],
+    "nb_occurrences": 2
+  },
+  {
+    "id": "VT-004",
+    "categorie": "verifications_techniques",
+    "type_verif": "VE",
+    "question": "Contrôlez l'état du flanc sur l'un des pneumatiques.",
+    "reponse_officielle": "En bon état (toute anomalie doit être signalée).",
+    "gradable": true,
+    "page_source": [
+      "04",
+      "68"
+    ],
+    "nb_occurrences": 2
+  },
+  {
+    "id": "VT-005",
+    "categorie": "verifications_techniques",
+    "type_verif": "VI",
+    "question": "Faites fonctionner les essuie-glaces avants du véhicule sur la position la plus rapide.",
+    "reponse_officielle": "",
+    "gradable": false,
+    "page_source": [
+      "05",
+      "69"
+    ],
+    "nb_occurrences": 2
+  },
+  {
+    "id": "VT-006",
+    "categorie": "verifications_techniques",
+    "type_verif": "VE",
+    "question": "Vérifiez l'état et la propreté des plaques d'immatriculation.",
+    "reponse_officielle": "Vérification des plaques à l'avant et à l'arrière, propres et en bon état (toute anomalie doit être signalée).",
+    "gradable": true,
+    "page_source": [
+      "06"
+    ],
+    "nb_occurrences": 1
+  },
+  {
+    "id": "VT-007",
+    "categorie": "verifications_techniques",
+    "type_verif": "VI",
+    "question": "Vérifiez la présence du gilet de haute visibilité.",
+    "reponse_officielle": "Le candidat doit indiquer où il se trouve sans obligation de le sortir. Le terme \"gilet jaune\" peut être utilisé si le candidat ne comprend pas.",
+    "gradable": true,
+    "page_source": [
+      "07",
+      "71"
+    ],
+    "nb_occurrences": 2
+  },
+  {
+    "id": "VT-008",
+    "categorie": "verifications_techniques",
+    "type_verif": "VE",
+    "question": "Montrez où s'effectue le contrôle du niveau du liquide de frein.",
+    "reponse_officielle": "Le candidat montre que le niveau est entre le mini et le maxi. Si le candidat a des difficultés pour ouvrir le capot, l'accompagnateur peut lui indiquer comment procéder.",
+    "gradable": true,
+    "page_source": [
+      "08",
+      "70"
+    ],
+    "nb_occurrences": 2
+  },
+  {
+    "id": "VT-009",
+    "categorie": "verifications_techniques",
+    "type_verif": "VI",
+    "question": "Vérifiez la présence du certificat d'immatriculation du véhicule (ou carte grise).",
+    "reponse_officielle": "La photocopie est acceptée.",
+    "gradable": true,
+    "page_source": [
+      "09"
+    ],
+    "nb_occurrences": 1
+  },
+  {
+    "id": "VT-010",
+    "categorie": "verifications_techniques",
+    "type_verif": "VE",
+    "question": "Contrôlez l'état de tous les balais d'essuie-glace du véhicule.",
+    "reponse_officielle": "",
+    "gradable": false,
+    "page_source": [
+      "10"
+    ],
+    "nb_occurrences": 1
+  },
+  {
+    "id": "VT-011",
+    "categorie": "verifications_techniques",
+    "type_verif": "VI",
+    "question": "Montrez l'indicateur de niveau de carburant.",
+    "reponse_officielle": "",
+    "gradable": false,
+    "page_source": [
+      "11"
+    ],
+    "nb_occurrences": 1
+  },
+  {
+    "id": "VT-012",
+    "categorie": "verifications_techniques",
+    "type_verif": "VE",
+    "question": "Montrez où s'effectue le remplissage du liquide de refroidissement.",
+    "reponse_officielle": "Le candidat ouvre le capot et montre le bocal. Si le candidat a des difficultés pour ouvrir le capot, l'accompagnateur peut lui indiquer comment procéder.",
+    "gradable": true,
+    "page_source": [
+      "12",
+      "72"
+    ],
+    "nb_occurrences": 2
+  },
+  {
+    "id": "VT-013",
+    "categorie": "verifications_techniques",
+    "type_verif": "VI",
+    "question": "Actionnez le dégivrage de la lunette arrière et montrez le voyant ou le repère correspondant.",
+    "reponse_officielle": "",
+    "gradable": false,
+    "page_source": [
+      "13",
+      "73"
+    ],
+    "nb_occurrences": 2
+  },
+  {
+    "id": "VT-014",
+    "categorie": "verifications_techniques",
+    "type_verif": "VE",
+    "question": "Contrôlez l'état, la propreté et le fonctionnement de tous les clignotants côté trottoir.",
+    "reponse_officielle": "Vérification des clignotants propres, en bon état et fonctionnent (toute anomalie doit être signalée).",
+    "gradable": true,
+    "page_source": [
+      "14",
+      "74"
+    ],
+    "nb_occurrences": 2
+  },
+  {
+    "id": "VT-015",
+    "categorie": "verifications_techniques",
+    "type_verif": "VI",
+    "question": "Montrez le voyant d'alerte signalant une pression insuffisante d'huile dans le moteur.",
+    "reponse_officielle": "",
+    "gradable": false,
+    "page_source": [
+      "15",
+      "75"
+    ],
+    "nb_occurrences": 2
+  },
+  {
+    "id": "VT-016",
+    "categorie": "verifications_techniques",
+    "type_verif": "VE",
+    "question": "Contrôlez l'état, la propreté et le fonctionnement du ou des feux de brouillard arrière.",
+    "reponse_officielle": "Vérification des feux, propres, en bon état et fonctionnent (toute anomalie doit être signalée).",
+    "gradable": true,
+    "page_source": [
+      "16"
+    ],
+    "nb_occurrences": 1
+  },
+  {
+    "id": "VT-017",
+    "categorie": "verifications_techniques",
+    "type_verif": "VI",
+    "question": "Vérifiez la présence de l'éthylotest.",
+    "reponse_officielle": "",
+    "gradable": false,
+    "page_source": [
+      "17",
+      "77"
+    ],
+    "nb_occurrences": 2
+  },
+  {
+    "id": "VT-018",
+    "categorie": "verifications_techniques",
+    "type_verif": "VE",
+    "question": "Contrôlez l'état, la propreté et le fonctionnement des feux de détresse à l'avant et à l'arrière.",
+    "reponse_officielle": "Vérification des feux, propres, en bon état et fonctionnent (toute anomalie doit être signalée).",
+    "gradable": true,
+    "page_source": [
+      "18",
+      "76"
+    ],
+    "nb_occurrences": 2
+  },
+  {
+    "id": "VT-019",
+    "categorie": "verifications_techniques",
+    "type_verif": "VI",
+    "question": "Montrez la commande de réglage du volant.",
+    "reponse_officielle": "Le candidat montre l'emplacement. Il ne lui est pas demandé de changer son réglage.",
+    "gradable": true,
+    "page_source": [
+      "19"
+    ],
+    "nb_occurrences": 1
+  },
+  {
+    "id": "VT-020",
+    "categorie": "verifications_techniques",
+    "type_verif": "VE",
+    "question": "Contrôlez l'état, la propreté et le fonctionnement des feux de route.",
+    "reponse_officielle": "Vérification des feux, propres, en bon état et fonctionnent (toute anomalie doit être signalée).",
+    "gradable": true,
+    "page_source": [
+      "20",
+      "78"
+    ],
+    "nb_occurrences": 2
+  },
+  {
+    "id": "VT-021",
+    "categorie": "verifications_techniques",
+    "type_verif": "VI",
+    "question": "Positionnez la commande pour diriger l'air vers le pare-brise.",
+    "reponse_officielle": "La position auto (désembuage automatique) peut être utilisée si le véhicule en est équipé.",
+    "gradable": true,
+    "page_source": [
+      "21",
+      "79"
+    ],
+    "nb_occurrences": 2
+  },
+  {
+    "id": "VT-022",
+    "categorie": "verifications_techniques",
+    "type_verif": "VE",
+    "question": "Montrez où doit s'effectuer le contrôle du niveau d'huile moteur.",
+    "reponse_officielle": "Le candidat montre la jauge. Pas de manipulation exigée. Si le candidat a des difficultés pour ouvrir le capot, l'accompagnateur peut lui indiquer comment procéder.",
+    "gradable": true,
+    "page_source": [
+      "22",
+      "80"
+    ],
+    "nb_occurrences": 2
+  },
+  {
+    "id": "VT-023",
+    "categorie": "verifications_techniques",
+    "type_verif": "VI",
+    "question": "Montrez le voyant d'alerte signalant un défaut de batterie.",
+    "reponse_officielle": "",
+    "gradable": false,
+    "page_source": [
+      "23"
+    ],
+    "nb_occurrences": 1
+  },
+  {
+    "id": "VT-024",
+    "categorie": "verifications_techniques",
+    "type_verif": "VE",
+    "question": "Montrez l'emplacement de la batterie du véhicule.",
+    "reponse_officielle": "Si le candidat a des difficultés pour ouvrir le capot, l'accompagnateur peut lui indiquer comment procéder.",
+    "gradable": true,
+    "page_source": [
+      "24"
+    ],
+    "nb_occurrences": 1
+  },
+  {
+    "id": "VT-025",
+    "categorie": "verifications_techniques",
+    "type_verif": "VI",
+    "question": "De quelle couleur est le voyant qui indique une défaillance du système de freinage ?",
+    "reponse_officielle": "Voyant rouge (symbole \"!\" dans un cercle).",
+    "gradable": true,
+    "page_source": [
+      "25",
+      "55",
+      "81"
+    ],
+    "nb_occurrences": 3
+  },
+  {
+    "id": "VT-026",
+    "categorie": "verifications_techniques",
+    "type_verif": "VE",
+    "question": "Contrôlez l'état, la propreté et le fonctionnement des feux de croisement.",
+    "reponse_officielle": "Vérification des feux, propres, en bon état et fonctionnent (toute anomalie doit être signalée).",
+    "gradable": true,
+    "page_source": [
+      "26",
+      "82"
+    ],
+    "nb_occurrences": 2
+  },
+  {
+    "id": "VT-027",
+    "categorie": "verifications_techniques",
+    "type_verif": "VI",
+    "question": "Montrez le voyant d'alerte signalant une température trop élevée du liquide de refroidissement.",
+    "reponse_officielle": "",
+    "gradable": false,
+    "page_source": [
+      "27",
+      "83"
+    ],
+    "nb_occurrences": 2
+  },
+  {
+    "id": "VT-028",
+    "categorie": "verifications_techniques",
+    "type_verif": "VE",
+    "question": "Vérifiez l'état et la propreté des dispositifs réfléchissants.",
+    "reponse_officielle": "Vérification des dispositifs, propres et en bon état (toute anomalie doit être signalée).",
+    "gradable": true,
+    "page_source": [
+      "28"
+    ],
+    "nb_occurrences": 1
+  },
+  {
+    "id": "VT-029",
+    "categorie": "verifications_techniques",
+    "type_verif": "VI",
+    "question": "Montrez le voyant signalant la mauvaise fermeture d'une portière.",
+    "reponse_officielle": "",
+    "gradable": false,
+    "page_source": [
+      "29"
+    ],
+    "nb_occurrences": 1
+  },
+  {
+    "id": "VT-030",
+    "categorie": "verifications_techniques",
+    "type_verif": "VE",
+    "question": "Contrôlez l'état, la propreté et le fonctionnement des feux de position à l'avant et à l'arrière du véhicule.",
+    "reponse_officielle": "Vérification des feux, propres, en bon état et fonctionnent (toute anomalie doit être signalée).",
+    "gradable": true,
+    "page_source": [
+      "30"
+    ],
+    "nb_occurrences": 1
+  },
+  {
+    "id": "VT-031",
+    "categorie": "verifications_techniques",
+    "type_verif": "VI",
+    "question": "Actionnez les feux de détresse.",
+    "reponse_officielle": "",
+    "gradable": false,
+    "page_source": [
+      "31",
+      "85"
+    ],
+    "nb_occurrences": 2
+  },
+  {
+    "id": "VT-032",
+    "categorie": "verifications_techniques",
+    "type_verif": "VE",
+    "question": "Sur le flanc d'un pneumatique, désignez le repère du témoin d'usure de la bande de roulement.",
+    "reponse_officielle": "",
+    "gradable": false,
+    "page_source": [
+      "32",
+      "84"
+    ],
+    "nb_occurrences": 2
+  },
+  {
+    "id": "VT-033",
+    "categorie": "verifications_techniques",
+    "type_verif": "VI",
+    "question": "Montrez la commande permettant d'actionner le régulateur de vitesse.",
+    "reponse_officielle": "",
+    "gradable": false,
+    "page_source": [
+      "33"
+    ],
+    "nb_occurrences": 1
+  },
+  {
+    "id": "VT-034",
+    "categorie": "verifications_techniques",
+    "type_verif": "VE",
+    "question": "Ouvrez la trappe à carburant et/ou vérifiez la bonne fermeture du bouchon.",
+    "reponse_officielle": "",
+    "gradable": false,
+    "page_source": [
+      "34"
+    ],
+    "nb_occurrences": 1
+  },
+  {
+    "id": "VT-035",
+    "categorie": "verifications_techniques",
+    "type_verif": "VI",
+    "question": "Sans l'actionner, montrez la commande de l'avertisseur sonore.",
+    "reponse_officielle": "",
+    "gradable": false,
+    "page_source": [
+      "35"
+    ],
+    "nb_occurrences": 1
+  },
+  {
+    "id": "VT-036",
+    "categorie": "verifications_techniques",
+    "type_verif": "VE",
+    "question": "Montrez où s'effectue le remplissage de l'huile moteur.",
+    "reponse_officielle": "Le candidat montre le bouchon de remplissage. Si le candidat a des difficultés pour ouvrir le capot, l'accompagnateur peut lui indiquer comment procéder.",
+    "gradable": true,
+    "page_source": [
+      "36"
+    ],
+    "nb_occurrences": 1
+  },
+  {
+    "id": "VT-037",
+    "categorie": "verifications_techniques",
+    "type_verif": "VI",
+    "question": "Montrez la commande permettant de désactiver l'airbag du passager avant.",
+    "reponse_officielle": "",
+    "gradable": false,
+    "page_source": [
+      "37",
+      "87"
+    ],
+    "nb_occurrences": 2
+  },
+  {
+    "id": "VT-038",
+    "categorie": "verifications_techniques",
+    "type_verif": "VE",
+    "question": "A l'aide de la plaque indicative, donnez la pression préconisée pour les pneumatiques arrières, véhicule chargé.",
+    "reponse_officielle": "",
+    "gradable": false,
+    "page_source": [
+      "38",
+      "86"
+    ],
+    "nb_occurrences": 2
+  },
+  {
+    "id": "VT-039",
+    "categorie": "verifications_techniques",
+    "type_verif": "VI",
+    "question": "Montrez le voyant signalant l'absence de bouclage de la ceinture de sécurité du conducteur.",
+    "reponse_officielle": "",
+    "gradable": false,
+    "page_source": [
+      "39",
+      "89"
+    ],
+    "nb_occurrences": 2
+  },
+  {
+    "id": "VT-040",
+    "categorie": "verifications_techniques",
+    "type_verif": "VE",
+    "question": "Vérifiez le fonctionnement de l'éclairage de la plaque d'immatriculation à l'arrière.",
+    "reponse_officielle": "Toute anomalie doit être signalée.",
+    "gradable": true,
+    "page_source": [
+      "40"
+    ],
+    "nb_occurrences": 1
+  },
+  {
+    "id": "VT-041",
+    "categorie": "verifications_techniques",
+    "type_verif": "VI",
+    "question": "Vérifiez la présence de l'attestation d'assurance du véhicule et de sa vignette sur le pare-brise.",
+    "reponse_officielle": "",
+    "gradable": false,
+    "page_source": [
+      "41"
+    ],
+    "nb_occurrences": 1
+  },
+  {
+    "id": "VT-042",
+    "categorie": "verifications_techniques",
+    "type_verif": "VE",
+    "question": "Indiquez où se situe la sécurité enfant sur l'une des portières à l'arrière du véhicule.",
+    "reponse_officielle": "",
+    "gradable": false,
+    "page_source": [
+      "42",
+      "88"
+    ],
+    "nb_occurrences": 2
+  },
+  {
+    "id": "VT-043",
+    "categorie": "verifications_techniques",
+    "type_verif": "VI",
+    "question": "Allumez le(s) feu(x) de brouillard arrière(s) et montrez le voyant correspondant.",
+    "reponse_officielle": "",
+    "gradable": false,
+    "page_source": [
+      "43",
+      "91"
+    ],
+    "nb_occurrences": 2
+  },
+  {
+    "id": "VT-044",
+    "categorie": "verifications_techniques",
+    "type_verif": "VE",
+    "question": "Avec l'assistance de l'accompagnateur, contrôlez l'état, la propreté et le fonctionnement du ou des feux de recul.",
+    "reponse_officielle": "Vérification des feux, propres, en bon état et qui fonctionnent (toute anomalie doit être signalée).",
+    "gradable": true,
+    "page_source": [
+      "44"
+    ],
+    "nb_occurrences": 1
+  },
+  {
+    "id": "VT-045",
+    "categorie": "verifications_techniques",
+    "type_verif": "VI",
+    "question": "Montrez comment régler la hauteur de l'appui-tête du siège conducteur.",
+    "reponse_officielle": "",
+    "gradable": false,
+    "page_source": [
+      "45"
+    ],
+    "nb_occurrences": 1
+  },
+  {
+    "id": "VT-046",
+    "categorie": "verifications_techniques",
+    "type_verif": "VE",
+    "question": "Avec l'assistance de l'accompagnateur, contrôlez l'état, la propreté et le fonctionnement des feux de stop.",
+    "reponse_officielle": "Vérification des feux, propres, en bon état et fonctionnent (toute anomalie doit être signalée).",
+    "gradable": true,
+    "page_source": [
+      "46",
+      "90"
+    ],
+    "nb_occurrences": 2
+  },
+  {
+    "id": "VT-047",
+    "categorie": "verifications_techniques",
+    "type_verif": "VI",
+    "question": "De quelle couleur est le voyant qui indique au conducteur que le feu de brouillard arrière est allumé ?",
+    "reponse_officielle": "Voyant orange.",
+    "gradable": true,
+    "page_source": [
+      "47"
+    ],
+    "nb_occurrences": 1
+  },
+  {
+    "id": "VT-048",
+    "categorie": "verifications_techniques",
+    "type_verif": "VE",
+    "question": "Ouvrez et refermez le capot, puis vérifiez sa bonne fermeture.",
+    "reponse_officielle": "",
+    "gradable": false,
+    "page_source": [
+      "48"
+    ],
+    "nb_occurrences": 1
+  },
+  {
+    "id": "VT-049",
+    "categorie": "verifications_techniques",
+    "type_verif": "VI",
+    "question": "Montrez la commande de recyclage de l'air.",
+    "reponse_officielle": "",
+    "gradable": false,
+    "page_source": [
+      "49",
+      "93"
+    ],
+    "nb_occurrences": 2
+  },
+  {
+    "id": "VT-050",
+    "categorie": "verifications_techniques",
+    "type_verif": "VE",
+    "question": "Montrez l'orifice de remplissage du produit lave-glace.",
+    "reponse_officielle": "Si le candidat a des difficultés pour ouvrir le capot, l'accompagnateur peut lui indiquer comment procéder.",
+    "gradable": true,
+    "page_source": [
+      "50"
+    ],
+    "nb_occurrences": 1
+  },
+  {
+    "id": "VT-051",
+    "categorie": "verifications_techniques",
+    "type_verif": "VI",
+    "question": "Allumez les feux de route et montrez le voyant correspondant.",
+    "reponse_officielle": "",
+    "gradable": false,
+    "page_source": [
+      "51",
+      "95"
+    ],
+    "nb_occurrences": 2
+  },
+  {
+    "id": "VT-052",
+    "categorie": "verifications_techniques",
+    "type_verif": "VE",
+    "question": "Vérifiez l'état, la propreté et le fonctionnement des feux diurnes.",
+    "reponse_officielle": "Vérification des feux, propres, en bon état et qui fonctionnent (toute anomalie doit être signalée).",
+    "gradable": true,
+    "page_source": [
+      "52",
+      "92"
+    ],
+    "nb_occurrences": 2
+  },
+  {
+    "id": "VT-053",
+    "categorie": "verifications_techniques",
+    "type_verif": "VI",
+    "question": "Vérifiez la présence du constat amiable dans le véhicule.",
+    "reponse_officielle": "",
+    "gradable": false,
+    "page_source": [
+      "53"
+    ],
+    "nb_occurrences": 1
+  },
+  {
+    "id": "VT-054",
+    "categorie": "verifications_techniques",
+    "type_verif": "VE",
+    "question": "Vérifiez la présence du triangle de pré-signalisation.",
+    "reponse_officielle": "",
+    "gradable": false,
+    "page_source": [
+      "54",
+      "94"
+    ],
+    "nb_occurrences": 2
+  },
+  {
+    "id": "VT-055",
+    "categorie": "verifications_techniques",
+    "type_verif": "VE",
+    "question": "Montrez où s'effectue le changement d'une ampoule à l'avant du véhicule.",
+    "reponse_officielle": "Si le candidat a des difficultés pour ouvrir le capot, l'accompagnateur peut lui indiquer comment procéder.",
+    "gradable": true,
+    "page_source": [
+      "56",
+      "96"
+    ],
+    "nb_occurrences": 2
+  },
+  {
+    "id": "VT-056",
+    "categorie": "verifications_techniques",
+    "type_verif": "VI",
+    "question": "Si le véhicule en est équipé, montrez la commande du limiteur de vitesse.",
+    "reponse_officielle": "",
+    "gradable": false,
+    "page_source": [
+      "57"
+    ],
+    "nb_occurrences": 1
+  },
+  {
+    "id": "VT-057",
+    "categorie": "verifications_techniques",
+    "type_verif": "VE",
+    "question": "Montrez où s'effectue le changement d'une ampoule à l'arrière du véhicule.",
+    "reponse_officielle": "",
+    "gradable": false,
+    "page_source": [
+      "58",
+      "98"
+    ],
+    "nb_occurrences": 2
+  },
+  {
+    "id": "VT-058",
+    "categorie": "verifications_techniques",
+    "type_verif": "VI",
+    "question": "Faites fonctionner l'essuie-glace arrière du véhicule.",
+    "reponse_officielle": "",
+    "gradable": false,
+    "page_source": [
+      "59",
+      "97"
+    ],
+    "nb_occurrences": 2
+  },
+  {
+    "id": "VT-059",
+    "categorie": "verifications_techniques",
+    "type_verif": "VE",
+    "question": "Ouvrez et refermez le coffre, puis vérifiez sa bonne fermeture.",
+    "reponse_officielle": "",
+    "gradable": false,
+    "page_source": [
+      "60",
+      "62"
+    ],
+    "nb_occurrences": 2
+  },
+  {
+    "id": "VT-060",
+    "categorie": "verifications_techniques",
+    "type_verif": "VI",
+    "question": "Indiquez où se situent les attaches de type Isofix dans le véhicule.",
+    "reponse_officielle": "Pour info : les attaches de type Isofix sont obligatoires sur les véhicules neufs depuis 2011.",
+    "gradable": true,
+    "page_source": [
+      "61"
+    ],
+    "nb_occurrences": 1
+  },
+  {
+    "id": "VT-061",
+    "categorie": "verifications_techniques",
+    "type_verif": "VI",
+    "question": "Montrez sur le tableau de bord le voyant indiquant une baisse de pression d'air d'un pneumatique.",
+    "reponse_officielle": "Pour info : obligatoire sur tous les véhicules neufs mis en circulation à compter du 01/11/2014.",
+    "gradable": true,
+    "page_source": [
+      "63"
+    ],
+    "nb_occurrences": 1
+  },
+  {
+    "id": "VT-062",
+    "categorie": "verifications_techniques",
+    "type_verif": "VE",
+    "question": "Procédez à l'ouverture du capot puis à sa fermeture en vous assurant de son verrouillage.",
+    "reponse_officielle": "",
+    "gradable": false,
+    "page_source": [
+      "64"
+    ],
+    "nb_occurrences": 1
+  },
+  {
+    "id": "VT-063",
+    "categorie": "verifications_techniques",
+    "type_verif": "VE",
+    "question": "Montrez où se situent les gicleurs de lave-glace avant.",
+    "reponse_officielle": "",
+    "gradable": false,
+    "page_source": [
+      "66",
+      "100"
+    ],
+    "nb_occurrences": 2
+  },
+  {
+    "id": "VT-064",
+    "categorie": "verifications_techniques",
+    "type_verif": "VI",
+    "question": "Montrez le voyant indiquant une baisse de pression d'air d'un pneumatique.",
+    "reponse_officielle": "Pour info : obligatoire sur tous les véhicules neufs mis en circulation à compter du 01/11/2014.",
+    "gradable": true,
+    "page_source": [
+      "99"
+    ],
+    "nb_occurrences": 1
+  },
+  {
+    "id": "SER-001",
+    "categorie": "securite_routiere",
+    "question": "Pourquoi doit-on régler la hauteur des feux ?",
+    "reponse_officielle": "Pour ne pas éblouir les autres usagers.",
+    "gradable": true,
+    "page_source": [
+      "01",
+      "65"
+    ],
+    "nb_occurrences": 2
+  },
+  {
+    "id": "SER-002",
+    "categorie": "securite_routiere",
+    "question": "Pourquoi est-il préférable d'utiliser un liquide spécial en hiver ?",
+    "reponse_officielle": "Pour éviter le gel du liquide.",
+    "gradable": true,
+    "page_source": [
+      "02"
+    ],
+    "nb_occurrences": 1
+  },
+  {
+    "id": "SER-003",
+    "categorie": "securite_routiere",
+    "question": "Quel est l'intérêt de la position nuit ?",
+    "reponse_officielle": "Ne pas être ébloui par les feux du véhicule suiveur.",
+    "gradable": true,
+    "page_source": [
+      "03",
+      "67"
+    ],
+    "nb_occurrences": 2
+  },
+  {
+    "id": "SER-004",
+    "categorie": "securite_routiere",
+    "question": "Citez un endroit où l'on peut trouver les pressions préconisées pour les pneumatiques ?",
+    "reponse_officielle": "Elles sont indiquées : soit sur une plaque sur une portière, soit dans la notice d'utilisation du véhicule, soit au niveau de la trappe à carburant.",
+    "gradable": true,
+    "page_source": [
+      "04",
+      "68"
+    ],
+    "nb_occurrences": 2
+  },
+  {
+    "id": "SER-005",
+    "categorie": "securite_routiere",
+    "question": "Comment détecter leur usure en circulation ?",
+    "reponse_officielle": "En cas de pluie, lorsqu'ils laissent des traces sur le pare brise.",
+    "gradable": true,
+    "page_source": [
+      "05"
+    ],
+    "nb_occurrences": 1
+  },
+  {
+    "id": "SER-006",
+    "categorie": "securite_routiere",
+    "question": "Quelles sont les précautions à prendre en cas d'installation d'un porte vélo ?",
+    "reponse_officielle": "La plaque d'immatriculation et les feux doivent être visibles.",
+    "gradable": true,
+    "page_source": [
+      "06"
+    ],
+    "nb_occurrences": 1
+  },
+  {
+    "id": "SER-007",
+    "categorie": "securite_routiere",
+    "question": "En cas de panne ou d'accident, quel autre accessoire de sécurité est obligatoire ?",
+    "reponse_officielle": "Le triangle de pré-signalisation.",
+    "gradable": true,
+    "page_source": [
+      "07",
+      "71"
+    ],
+    "nb_occurrences": 2
+  },
+  {
+    "id": "SER-008",
+    "categorie": "securite_routiere",
+    "question": "Quelle est la conséquence d'un niveau insuffisant du liquide de frein ?",
+    "reponse_officielle": "Une perte d'efficacité du freinage.",
+    "gradable": true,
+    "page_source": [
+      "08",
+      "70"
+    ],
+    "nb_occurrences": 2
+  },
+  {
+    "id": "SER-009",
+    "categorie": "securite_routiere",
+    "question": "Quels sont les deux autres documents obligatoires à présenter en cas de contrôle par les forces de l'ordre ?",
+    "reponse_officielle": "L'attestation d'assurance et le permis de conduire.",
+    "gradable": true,
+    "page_source": [
+      "09",
+      "41"
+    ],
+    "nb_occurrences": 2
+  },
+  {
+    "id": "SER-010",
+    "categorie": "securite_routiere",
+    "question": "Quel est le risque de circuler avec des balais d'essuie glace défectueux ?",
+    "reponse_officielle": "Une mauvaise visibilité en cas d'intempéries.",
+    "gradable": true,
+    "page_source": [
+      "10"
+    ],
+    "nb_occurrences": 1
+  },
+  {
+    "id": "SER-011",
+    "categorie": "securite_routiere",
+    "question": "Quelles sont les précautions à prendre lors du remplissage du réservoir ?",
+    "reponse_officielle": "Arrêter le moteur, ne pas fumer, ne pas téléphoner.",
+    "gradable": true,
+    "page_source": [
+      "11",
+      "34"
+    ],
+    "nb_occurrences": 2
+  },
+  {
+    "id": "SER-012",
+    "categorie": "securite_routiere",
+    "question": "Quel est le danger si l'on complète le niveau du liquide lorsque le moteur est chaud ?",
+    "reponse_officielle": "Un risque de brûlure.",
+    "gradable": true,
+    "page_source": [
+      "12",
+      "72"
+    ],
+    "nb_occurrences": 2
+  },
+  {
+    "id": "SER-013",
+    "categorie": "securite_routiere",
+    "question": "Quelle peut être la conséquence d'une panne de dégivrage de la lunette arrière ?",
+    "reponse_officielle": "Une insuffisance ou une absence de visibilité vers l'arrière.",
+    "gradable": true,
+    "page_source": [
+      "13",
+      "73"
+    ],
+    "nb_occurrences": 2
+  },
+  {
+    "id": "SER-014",
+    "categorie": "securite_routiere",
+    "question": "Quelle est la signification d'un clignotement plus rapide ?",
+    "reponse_officielle": "Non fonctionnement de l'une des ampoules.",
+    "gradable": true,
+    "page_source": [
+      "14",
+      "74"
+    ],
+    "nb_occurrences": 2
+  },
+  {
+    "id": "SER-015",
+    "categorie": "securite_routiere",
+    "question": "Quelles sont les conditions à respecter pour contrôler le niveau d'huile ?",
+    "reponse_officielle": "Moteur froid et sur un terrain plat.",
+    "gradable": true,
+    "page_source": [
+      "15"
+    ],
+    "nb_occurrences": 1
+  },
+  {
+    "id": "SER-016",
+    "categorie": "securite_routiere",
+    "question": "Dans quels cas les utilise-t-on ?",
+    "reponse_officielle": "Par temps de brouillard et neige.",
+    "gradable": true,
+    "page_source": [
+      "16"
+    ],
+    "nb_occurrences": 1
+  },
+  {
+    "id": "SER-017",
+    "categorie": "securite_routiere",
+    "question": "A partir de quel taux d'alcoolémie, en période de permis probatoire, est-on en infraction ?",
+    "reponse_officielle": "0,2 g/l, c'est à dire 0 verre, car dès le 1er verre ce seuil peut être dépassé.",
+    "gradable": true,
+    "page_source": [
+      "17",
+      "77"
+    ],
+    "nb_occurrences": 2
+  },
+  {
+    "id": "SER-018",
+    "categorie": "securite_routiere",
+    "question": "Dans quels cas doit-on les utiliser ?",
+    "reponse_officielle": "En cas de panne, d'accident ou de ralentissement important.",
+    "gradable": true,
+    "page_source": [
+      "18",
+      "76",
+      "85"
+    ],
+    "nb_occurrences": 3
+  },
+  {
+    "id": "SER-019",
+    "categorie": "securite_routiere",
+    "question": "Pourquoi est-il important de bien régler son volant ? Citez deux exemples.",
+    "reponse_officielle": "Le confort de conduite ; l'accessibilité aux commandes ; la visibilité du tableau de bord ; l'efficacité des airbags.",
+    "gradable": true,
+    "page_source": [
+      "19"
+    ],
+    "nb_occurrences": 1
+  },
+  {
+    "id": "SER-020",
+    "categorie": "securite_routiere",
+    "question": "Citez un cas d'utilisation de l'appel lumineux.",
+    "reponse_officielle": "Pour avertir de son approche ; en cas de danger ; à la place de l'avertisseur sonore.",
+    "gradable": true,
+    "page_source": [
+      "20"
+    ],
+    "nb_occurrences": 1
+  },
+  {
+    "id": "SER-021",
+    "categorie": "securite_routiere",
+    "question": "Citez deux éléments complémentaires permettant un désembuage efficace.",
+    "reponse_officielle": "La commande de vitesse de ventilation ; la commande d'air chaud ; la climatisation.",
+    "gradable": true,
+    "page_source": [
+      "21"
+    ],
+    "nb_occurrences": 1
+  },
+  {
+    "id": "SER-022",
+    "categorie": "securite_routiere",
+    "question": "Quel est le principal risque d'un manque d'huile moteur ?",
+    "reponse_officielle": "Un risque de détérioration ou de casse du moteur.",
+    "gradable": true,
+    "page_source": [
+      "22",
+      "80"
+    ],
+    "nb_occurrences": 2
+  },
+  {
+    "id": "SER-023",
+    "categorie": "securite_routiere",
+    "question": "Qu'est-ce qui peut provoquer la décharge de la batterie, moteur éteint ?",
+    "reponse_officielle": "Les feux ou accessoires électriques en fonctionnement.",
+    "gradable": true,
+    "page_source": [
+      "23"
+    ],
+    "nb_occurrences": 1
+  },
+  {
+    "id": "SER-024",
+    "categorie": "securite_routiere",
+    "question": "Quelle est la solution en cas de panne de batterie pour démarrer le véhicule sans le déplacer ?",
+    "reponse_officielle": "Brancher une deuxième batterie en parallèle (ou les \"+\" ensemble et les \"-\" ensemble) ou la remplacer.",
+    "gradable": true,
+    "page_source": [
+      "24"
+    ],
+    "nb_occurrences": 1
+  },
+  {
+    "id": "SER-025",
+    "categorie": "securite_routiere",
+    "question": "Quel est le risque de circuler avec un frein de parking mal desserré ?",
+    "reponse_officielle": "Une dégradation du système de freinage.",
+    "gradable": true,
+    "page_source": [
+      "25",
+      "55",
+      "81"
+    ],
+    "nb_occurrences": 3
+  },
+  {
+    "id": "SER-026",
+    "categorie": "securite_routiere",
+    "question": "Quelles sont les conséquences d'un mauvais réglage de ces feux ?",
+    "reponse_officielle": "Une mauvaise vision vers l'avant et un risque d'éblouissement des autres usagers.",
+    "gradable": true,
+    "page_source": [
+      "26",
+      "82"
+    ],
+    "nb_occurrences": 2
+  },
+  {
+    "id": "SER-027",
+    "categorie": "securite_routiere",
+    "question": "Quelle est la conséquence d'une température trop élevée de ce liquide ?",
+    "reponse_officielle": "Une surchauffe ou une casse moteur.",
+    "gradable": true,
+    "page_source": [
+      "27",
+      "83"
+    ],
+    "nb_occurrences": 2
+  },
+  {
+    "id": "SER-028",
+    "categorie": "securite_routiere",
+    "question": "Quelle est l'utilité des dispositifs réfléchissants ?",
+    "reponse_officielle": "Rendre visible le véhicule la nuit.",
+    "gradable": true,
+    "page_source": [
+      "28"
+    ],
+    "nb_occurrences": 1
+  },
+  {
+    "id": "SER-029",
+    "categorie": "securite_routiere",
+    "question": "Quelle précaution dois-je prendre pour que les enfants installés à l'arrière ne puissent pas ouvrir leur portière ?",
+    "reponse_officielle": "Actionner la sécurité enfant sur les deux portières arrière.",
+    "gradable": true,
+    "page_source": [
+      "29"
+    ],
+    "nb_occurrences": 1
+  },
+  {
+    "id": "SER-030",
+    "categorie": "securite_routiere",
+    "question": "Par temps clair, à quelle distance doivent-ils être visibles ?",
+    "reponse_officielle": "A 150 mètres.",
+    "gradable": true,
+    "page_source": [
+      "30"
+    ],
+    "nb_occurrences": 1
+  },
+  {
+    "id": "SER-031",
+    "categorie": "securite_routiere",
+    "question": "Quand les utilise-t-on ?",
+    "reponse_officielle": "En cas de panne, d'accident ou de ralentissement important.",
+    "gradable": true,
+    "page_source": [
+      "31"
+    ],
+    "nb_occurrences": 1
+  },
+  {
+    "id": "SER-032",
+    "categorie": "securite_routiere",
+    "question": "Qu'est-ce que l'aquaplanage, et quelle peut être sa conséquence ?",
+    "reponse_officielle": "La présence d'un film d'eau entre le pneumatique et la chaussée pouvant entraîner une perte de contrôle du véhicule.",
+    "gradable": true,
+    "page_source": [
+      "32",
+      "84"
+    ],
+    "nb_occurrences": 2
+  },
+  {
+    "id": "SER-033",
+    "categorie": "securite_routiere",
+    "question": "Sans actionner la commande du régulateur, comment le désactiver rapidement ?",
+    "reponse_officielle": "En appuyant sur la pédale de frein ou d'embrayage.",
+    "gradable": true,
+    "page_source": [
+      "33"
+    ],
+    "nb_occurrences": 1
+  },
+  {
+    "id": "SER-034",
+    "categorie": "securite_routiere",
+    "question": "Dans quel cas peut-on utiliser l'avertisseur sonore en agglomération ?",
+    "reponse_officielle": "En cas de danger immédiat.",
+    "gradable": true,
+    "page_source": [
+      "35"
+    ],
+    "nb_occurrences": 1
+  },
+  {
+    "id": "SER-035",
+    "categorie": "securite_routiere",
+    "question": "Quel est le risque d'un manque d'huile moteur ?",
+    "reponse_officielle": "Un risque de détérioration ou de casse du moteur.",
+    "gradable": true,
+    "page_source": [
+      "36"
+    ],
+    "nb_occurrences": 1
+  },
+  {
+    "id": "SER-036",
+    "categorie": "securite_routiere",
+    "question": "Dans quelle situation doit-on le désactiver ?",
+    "reponse_officielle": "Lors du transport d'un enfant à l'avant dans un siège auto, dos à la route.",
+    "gradable": true,
+    "page_source": [
+      "37",
+      "87"
+    ],
+    "nb_occurrences": 2
+  },
+  {
+    "id": "SER-037",
+    "categorie": "securite_routiere",
+    "question": "A quelle fréquence est-il préconisé de vérifier la pression des pneus ?",
+    "reponse_officielle": "Chaque mois, pour une utilisation normale de son véhicule, et avant chaque long trajet.",
+    "gradable": true,
+    "page_source": [
+      "38",
+      "86"
+    ],
+    "nb_occurrences": 2
+  },
+  {
+    "id": "SER-038",
+    "categorie": "securite_routiere",
+    "question": "En règle générale, à partir de quel âge un enfant peut-il être installé sur le siège passager avant du véhicule ?",
+    "reponse_officielle": "10 ans.",
+    "gradable": true,
+    "page_source": [
+      "39",
+      "89"
+    ],
+    "nb_occurrences": 2
+  },
+  {
+    "id": "SER-039",
+    "categorie": "securite_routiere",
+    "question": "Un défaut d'éclairage de la plaque lors du contrôle technique entraîne-t-il une contre-visite ?",
+    "reponse_officielle": "Oui.",
+    "gradable": true,
+    "page_source": [
+      "40"
+    ],
+    "nb_occurrences": 1
+  },
+  {
+    "id": "SER-040",
+    "categorie": "securite_routiere",
+    "question": "Si la sécurité enfant est enclenchée, est-il possible d'ouvrir la portière arrière depuis l'extérieur ?",
+    "reponse_officielle": "Oui.",
+    "gradable": true,
+    "page_source": [
+      "42",
+      "88"
+    ],
+    "nb_occurrences": 2
+  },
+  {
+    "id": "SER-041",
+    "categorie": "securite_routiere",
+    "question": "Pouvez-vous les utiliser par forte pluie ?",
+    "reponse_officielle": "Non.",
+    "gradable": true,
+    "page_source": [
+      "43",
+      "91"
+    ],
+    "nb_occurrences": 2
+  },
+  {
+    "id": "SER-042",
+    "categorie": "securite_routiere",
+    "question": "Quelles sont leurs deux utilités ?",
+    "reponse_officielle": "Éclairer la zone de recul la nuit ; avertir les autres usagers de la manœuvre.",
+    "gradable": true,
+    "page_source": [
+      "44"
+    ],
+    "nb_occurrences": 1
+  },
+  {
+    "id": "SER-043",
+    "categorie": "securite_routiere",
+    "question": "Quelle est son utilité ?",
+    "reponse_officielle": "Permet de retenir le mouvement de la tête en cas de choc et de limiter les blessures.",
+    "gradable": true,
+    "page_source": [
+      "45"
+    ],
+    "nb_occurrences": 1
+  },
+  {
+    "id": "SER-044",
+    "categorie": "securite_routiere",
+    "question": "Quelle est la conséquence en cas de panne des feux de stop ?",
+    "reponse_officielle": "Un manque d'information pour les usagers suiveurs et un risque de collision.",
+    "gradable": true,
+    "page_source": [
+      "46",
+      "90"
+    ],
+    "nb_occurrences": 2
+  },
+  {
+    "id": "SER-045",
+    "categorie": "securite_routiere",
+    "question": "Quelle est la différence entre un voyant orange et un voyant rouge ?",
+    "reponse_officielle": "Rouge : une anomalie de fonctionnement ou un danger. Orange : un élément important.",
+    "gradable": true,
+    "page_source": [
+      "47"
+    ],
+    "nb_occurrences": 1
+  },
+  {
+    "id": "SER-046",
+    "categorie": "securite_routiere",
+    "question": "En roulant, quel est le risque d'une mauvaise fermeture du capot ?",
+    "reponse_officielle": "Un risque d'ouverture du capot pouvant entraîner un accident.",
+    "gradable": true,
+    "page_source": [
+      "48"
+    ],
+    "nb_occurrences": 1
+  },
+  {
+    "id": "SER-047",
+    "categorie": "securite_routiere",
+    "question": "Quel peut être le risque de maintenir le recyclage de l'air de manière prolongée ?",
+    "reponse_officielle": "Un risque de mauvaise visibilité par l'apparition de buée sur les surfaces vitrées.",
+    "gradable": true,
+    "page_source": [
+      "49",
+      "93"
+    ],
+    "nb_occurrences": 2
+  },
+  {
+    "id": "SER-048",
+    "categorie": "securite_routiere",
+    "question": "Quel est le principal risque d'une absence de liquide lave-glace ?",
+    "reponse_officielle": "Une mauvaise visibilité.",
+    "gradable": true,
+    "page_source": [
+      "50"
+    ],
+    "nb_occurrences": 1
+  },
+  {
+    "id": "SER-049",
+    "categorie": "securite_routiere",
+    "question": "Quel est le risque de maintenir les feux de route lors d'un croisement avec d'autres usagers ?",
+    "reponse_officielle": "Un risque d'éblouissement des autres usagers.",
+    "gradable": true,
+    "page_source": [
+      "51",
+      "95"
+    ],
+    "nb_occurrences": 2
+  },
+  {
+    "id": "SER-050",
+    "categorie": "securite_routiere",
+    "question": "Quelle est leur utilité ?",
+    "reponse_officielle": "Rendre le véhicule plus visible le jour.",
+    "gradable": true,
+    "page_source": [
+      "52",
+      "92"
+    ],
+    "nb_occurrences": 2
+  },
+  {
+    "id": "SER-051",
+    "categorie": "securite_routiere",
+    "question": "En cas d'accident, dans quel délai doit-il être transmis à l'assureur ?",
+    "reponse_officielle": "5 jours.",
+    "gradable": true,
+    "page_source": [
+      "53"
+    ],
+    "nb_occurrences": 1
+  },
+  {
+    "id": "SER-052",
+    "categorie": "securite_routiere",
+    "question": "Utilise-t-on le triangle de pré-signalisation sur autoroute ?",
+    "reponse_officielle": "Non.",
+    "gradable": true,
+    "page_source": [
+      "54",
+      "94"
+    ],
+    "nb_occurrences": 2
+  },
+  {
+    "id": "SER-053",
+    "categorie": "securite_routiere",
+    "question": "Quelles sont les conséquences en cas de panne d'un feu de croisement ?",
+    "reponse_officielle": "Une mauvaise visibilité et le risque d'être confondu avec un deux roues.",
+    "gradable": true,
+    "page_source": [
+      "56",
+      "96"
+    ],
+    "nb_occurrences": 2
+  },
+  {
+    "id": "SER-054",
+    "categorie": "securite_routiere",
+    "question": "Quelle est l'utilité d'un limiteur de vitesse ?",
+    "reponse_officielle": "Ne pas dépasser la vitesse programmée par le conducteur.",
+    "gradable": true,
+    "page_source": [
+      "57"
+    ],
+    "nb_occurrences": 1
+  },
+  {
+    "id": "SER-055",
+    "categorie": "securite_routiere",
+    "question": "Quelles sont les conséquences en cas de panne d'un feu de position arrière ?",
+    "reponse_officielle": "Être mal vu et un risque de collision.",
+    "gradable": true,
+    "page_source": [
+      "58",
+      "98"
+    ],
+    "nb_occurrences": 2
+  },
+  {
+    "id": "SER-056",
+    "categorie": "securite_routiere",
+    "question": "Pour une bonne visibilité vers l'arrière, en plus de l'utilisation de l'essuie-glace, quelle commande pouvez-vous actionner par temps de pluie ?",
+    "reponse_officielle": "La commande de désembuage arrière. Le terme dégivrage peut remplacer celui de désembuage.",
+    "gradable": true,
+    "page_source": [
+      "59",
+      "97"
+    ],
+    "nb_occurrences": 2
+  },
+  {
+    "id": "SER-057",
+    "categorie": "securite_routiere",
+    "question": "Lorsque vous transportez un poids important dans le coffre, quelles sont les précautions à prendre en ce qui concerne les pneumatiques et l'éclairage avant ?",
+    "reponse_officielle": "Augmenter la pression des pneumatiques et régler la hauteur des feux avants.",
+    "gradable": true,
+    "page_source": [
+      "60"
+    ],
+    "nb_occurrences": 1
+  },
+  {
+    "id": "SER-058",
+    "categorie": "securite_routiere",
+    "question": "Peut-on fixer tous les sièges enfant sur des attaches de type Isofix ?",
+    "reponse_officielle": "Non (uniquement ceux compatibles avec ce type d'attache).",
+    "gradable": true,
+    "page_source": [
+      "61"
+    ],
+    "nb_occurrences": 1
+  },
+  {
+    "id": "SER-059",
+    "categorie": "securite_routiere",
+    "question": "Quels sont les risques de circuler avec des objets sur la plage arrière ?",
+    "reponse_officielle": "Une mauvaise visibilité vers l'arrière et un risque de projection en cas de freinage brusque ou de choc.",
+    "gradable": true,
+    "page_source": [
+      "62"
+    ],
+    "nb_occurrences": 1
+  },
+  {
+    "id": "SER-060",
+    "categorie": "securite_routiere",
+    "question": "A quelle fréquence est-il préconisé de vérifier la pression d'air des pneumatiques ?",
+    "reponse_officielle": "Tous les mois.",
+    "gradable": true,
+    "page_source": [
+      "63",
+      "99"
+    ],
+    "nb_occurrences": 2
+  },
+  {
+    "id": "SER-061",
+    "categorie": "securite_routiere",
+    "question": "Pour un capot s'ouvrant depuis l'avant du véhicule, quelle est l'utilité du dispositif de sécurité ?",
+    "reponse_officielle": "Empêcher l'ouverture du capot en circulation en cas de mauvais verrouillage.",
+    "gradable": true,
+    "page_source": [
+      "64"
+    ],
+    "nb_occurrences": 1
+  },
+  {
+    "id": "SER-062",
+    "categorie": "securite_routiere",
+    "question": "Quelle est la principale conséquence d'un dispositif de lave-glace défaillant ?",
+    "reponse_officielle": "Une mauvaise visibilité due à l'impossibilité de nettoyer le pare-brise.",
+    "gradable": true,
+    "page_source": [
+      "66",
+      "100"
+    ],
+    "nb_occurrences": 2
+  },
+  {
+    "id": "SER-063",
+    "categorie": "securite_routiere",
+    "question": "Comment détecte-t-on leur usure en circulation ?",
+    "reponse_officielle": "En cas de pluie, lorsqu'ils laissent des traces sur le pare brise.",
+    "gradable": true,
+    "page_source": [
+      "69"
+    ],
+    "nb_occurrences": 1
+  },
+  {
+    "id": "SER-064",
+    "categorie": "securite_routiere",
+    "question": "Quelles sont les conditions à respecter pour compléter le niveau d'huile ?",
+    "reponse_officielle": "Moteur froid et sur un terrain plat.",
+    "gradable": true,
+    "page_source": [
+      "75"
+    ],
+    "nb_occurrences": 1
+  },
+  {
+    "id": "SER-065",
+    "categorie": "securite_routiere",
+    "question": "Citez un cas d'utilisation d'un appel lumineux.",
+    "reponse_officielle": "Pour avertir de son approche ; en cas de danger ; à la place de l'avertisseur sonore.",
+    "gradable": true,
+    "page_source": [
+      "78"
+    ],
+    "nb_occurrences": 1
+  },
+  {
+    "id": "SER-066",
+    "categorie": "securite_routiere",
+    "question": "Citez deux éléments complémentaires permettant un désembuage efficace ?",
+    "reponse_officielle": "La commande de vitesse de ventilation ; la commande d'air chaud ; la climatisation.",
+    "gradable": true,
+    "page_source": [
+      "79"
+    ],
+    "nb_occurrences": 1
+  },
+  {
+    "id": "SEC-001",
+    "categorie": "premiers_secours",
+    "question": "Comment et pourquoi protéger une zone de danger en cas d'accident de la route ?",
+    "reponse_officielle": "En délimitant clairement et largement la zone de danger de façon visible pour protéger les victimes et éviter un sur-accident.",
+    "gradable": true,
+    "page_source": [
+      "01",
+      "38",
+      "65",
+      "86"
+    ],
+    "nb_occurrences": 4
+  },
+  {
+    "id": "SEC-002",
+    "categorie": "premiers_secours",
+    "question": "Quels comportements adopter en cas de diffusion du signal d'alerte du Système d'Alerte et d'Information des Populations (SAIP) ?",
+    "reponse_officielle": "Se mettre en sécurité ; s'informer grâce aux médias et sites internet des autorités dès que leur consultation est possible ; respecter les consignes des autorités.",
+    "gradable": true,
+    "page_source": [
+      "02",
+      "31",
+      "85"
+    ],
+    "nb_occurrences": 3
+  },
+  {
+    "id": "SEC-003",
+    "categorie": "premiers_secours",
+    "question": "Comment est composé le signal d'alerte du Système d'Alerte et d'Information des Populations (SAIP) diffusé par les sirènes ?",
+    "reponse_officielle": "Il se compose de deux codes distincts : le Signal National d'Alerte (SNA), variation du signal sur trois cycles successifs ; le signal de fin d'alerte, signal continu.",
+    "gradable": true,
+    "page_source": [
+      "03",
+      "39",
+      "67",
+      "89"
+    ],
+    "nb_occurrences": 4
+  },
+  {
+    "id": "SEC-004",
+    "categorie": "premiers_secours",
+    "question": "Sur autoroute, comment indiquer avec précision les lieux de l'accident depuis un téléphone portable ?",
+    "reponse_officielle": "En indiquant le numéro de l'autoroute, le sens de circulation et le point kilométrique.",
+    "gradable": true,
+    "page_source": [
+      "04",
+      "33",
+      "68"
+    ],
+    "nb_occurrences": 3
+  },
+  {
+    "id": "SEC-005",
+    "categorie": "premiers_secours",
+    "question": "Comment vérifier la respiration d'une victime ?",
+    "reponse_officielle": "Regarder si le ventre et la poitrine se soulèvent et sentir de l'air à l'expiration.",
+    "gradable": true,
+    "page_source": [
+      "05",
+      "61",
+      "69"
+    ],
+    "nb_occurrences": 3
+  },
+  {
+    "id": "SEC-006",
+    "categorie": "premiers_secours",
+    "question": "Qu'est ce qu'une perte de connaissance ?",
+    "reponse_officielle": "C'est lorsque la victime ne répond pas et ne réagit pas mais respire.",
+    "gradable": true,
+    "page_source": [
+      "06"
+    ],
+    "nb_occurrences": 1
+  },
+  {
+    "id": "SEC-007",
+    "categorie": "premiers_secours",
+    "question": "Si un dégagement d'urgence de la victime est nécessaire, où doit-elle être déplacée ?",
+    "reponse_officielle": "Dans un endroit suffisamment éloigné du danger et de ses conséquences.",
+    "gradable": true,
+    "page_source": [
+      "07",
+      "32",
+      "71",
+      "84"
+    ],
+    "nb_occurrences": 4
+  },
+  {
+    "id": "SEC-008",
+    "categorie": "premiers_secours",
+    "question": "En cas de panne ou d'accident, quel équipement de sécurité doit être porté avant de quitter le véhicule ?",
+    "reponse_officielle": "Il faut porter le gilet de haute visibilité avant de sortir du véhicule. Le terme \"gilet jaune\" peut être utilisé par le candidat.",
+    "gradable": true,
+    "page_source": [
+      "08",
+      "20",
+      "70",
+      "78"
+    ],
+    "nb_occurrences": 4
+  },
+  {
+    "id": "SEC-009",
+    "categorie": "premiers_secours",
+    "question": "Pourquoi l'alerte auprès des services de secours doit-elle être rapide et précise ?",
+    "reponse_officielle": "Pour permettre aux services de secours d'apporter les moyens adaptés aux victimes dans le délai le plus court.",
+    "gradable": true,
+    "page_source": [
+      "09",
+      "34"
+    ],
+    "nb_occurrences": 2
+  },
+  {
+    "id": "SEC-010",
+    "categorie": "premiers_secours",
+    "question": "Quels sont les numéros d'urgence à composer ?",
+    "reponse_officielle": "Le 18, numéro d'appel des sapeurs-pompiers ; le 15, numéro d'appel des SAMU ; le 112, numéro de téléphone réservé aux appels d'urgence et valide dans l'ensemble de l'Union Européenne.",
+    "gradable": true,
+    "page_source": [
+      "10"
+    ],
+    "nb_occurrences": 1
+  },
+  {
+    "id": "SEC-011",
+    "categorie": "premiers_secours",
+    "question": "Quels comportements adopter en présence d'une victime qui ne répond pas et ne réagit pas, mais respire ?",
+    "reponse_officielle": "La placer en position stable sur le côté ou position latérale de sécurité ; alerter les secours ; surveiller la respiration de la victime jusqu'à l'arrivée des secours.",
+    "gradable": true,
+    "page_source": [
+      "11",
+      "59",
+      "97"
+    ],
+    "nb_occurrences": 3
+  },
+  {
+    "id": "SEC-012",
+    "categorie": "premiers_secours",
+    "question": "Comment arrêter une hémorragie ?",
+    "reponse_officielle": "En appuyant fortement sur l'endroit qui saigne avec les doigts ou avec la paume de la main en mettant un tissu propre sur la plaie.",
+    "gradable": true,
+    "page_source": [
+      "12",
+      "55",
+      "72"
+    ],
+    "nb_occurrences": 3
+  },
+  {
+    "id": "SEC-013",
+    "categorie": "premiers_secours",
+    "question": "Hors autoroute ou endroit dangereux, en cas de panne ou d'accident, où doit être placé le triangle de pré-signalisation ?",
+    "reponse_officielle": "Le triangle de pré-signalisation doit être placé à une distance d'environ 30 m de la panne ou de l'accident, ou avant un virage, ou un sommet de côte.",
+    "gradable": true,
+    "page_source": [
+      "13",
+      "25",
+      "73"
+    ],
+    "nb_occurrences": 3
+  },
+  {
+    "id": "SEC-014",
+    "categorie": "premiers_secours",
+    "question": "Quelles sont les conditions pour réaliser le dégagement d'urgence d'une victime en présence d'un danger réel, immédiat et non contrôlable ?",
+    "reponse_officielle": "La victime doit être visible, facile à atteindre et rien ne doit gêner son dégagement. Il faut être sûr(e) de pouvoir réaliser le dégagement de la victime.",
+    "gradable": true,
+    "page_source": [
+      "14",
+      "37",
+      "87"
+    ],
+    "nb_occurrences": 3
+  },
+  {
+    "id": "SEC-015",
+    "categorie": "premiers_secours",
+    "question": "Quelles sont les trois informations à transmettre aux services de secours ?",
+    "reponse_officielle": "Le numéro de téléphone à partir duquel l'appel est émis, la nature et la localisation la plus précise du problème.",
+    "gradable": true,
+    "page_source": [
+      "15",
+      "40",
+      "75"
+    ],
+    "nb_occurrences": 3
+  },
+  {
+    "id": "SEC-016",
+    "categorie": "premiers_secours",
+    "question": "Par quels moyens doit être réalisée l'alerte des secours ?",
+    "reponse_officielle": "L'alerte doit être donnée à l'aide d'un téléphone portable ou, à défaut, d'un téléphone fixe ou d'une borne d'appel d'urgence.",
+    "gradable": true,
+    "page_source": [
+      "16",
+      "45"
+    ],
+    "nb_occurrences": 2
+  },
+  {
+    "id": "SEC-017",
+    "categorie": "premiers_secours",
+    "question": "Quel comportement doit-on adopter en présence d'une victime en arrêt cardiaque ?",
+    "reponse_officielle": "ALERTER : alerter immédiatement les secours. MASSER : pratiquer une réanimation cardio-pulmonaire. DEFIBRILLER : utiliser un défibrillateur automatique (DAE) si possible.",
+    "gradable": true,
+    "page_source": [
+      "17",
+      "54",
+      "77",
+      "94"
+    ],
+    "nb_occurrences": 4
+  },
+  {
+    "id": "SEC-018",
+    "categorie": "premiers_secours",
+    "question": "Dans quel cas peut-on positionner une victime en Position Latérale de Sécurité (PLS) ?",
+    "reponse_officielle": "Si la victime ne répond pas, ne réagit pas et respire.",
+    "gradable": true,
+    "page_source": [
+      "18",
+      "76"
+    ],
+    "nb_occurrences": 2
+  },
+  {
+    "id": "SEC-019",
+    "categorie": "premiers_secours",
+    "question": "Dans quelle situation peut-on déplacer une victime ?",
+    "reponse_officielle": "En présence d'un danger réel, immédiat, non contrôlable. Le déplacement de la victime doit rester exceptionnel.",
+    "gradable": true,
+    "page_source": [
+      "19",
+      "26",
+      "82"
+    ],
+    "nb_occurrences": 3
+  },
+  {
+    "id": "SEC-020",
+    "categorie": "premiers_secours",
+    "question": "Quel est l'objectif du Signal d'Alerte et d'Information des Populations (SAIP) ?",
+    "reponse_officielle": "Avertir la population d'un danger imminent ou qu'un événement grave est en train de se produire.",
+    "gradable": true,
+    "page_source": [
+      "21",
+      "51",
+      "79",
+      "95"
+    ],
+    "nb_occurrences": 4
+  },
+  {
+    "id": "SEC-021",
+    "categorie": "premiers_secours",
+    "question": "Comment est diffusée l'alerte émise par le Signal d'Alerte et d'Information aux Populations (SAIP) ?",
+    "reponse_officielle": "Grâce aux sirènes, aux médias tels que Radio France et France Télévision ou encore grâce à l'application SAIP.",
+    "gradable": true,
+    "page_source": [
+      "22",
+      "58",
+      "80",
+      "98"
+    ],
+    "nb_occurrences": 4
+  },
+  {
+    "id": "SEC-022",
+    "categorie": "premiers_secours",
+    "question": "A partir de quel âge peut-on suivre une formation aux premiers secours ?",
+    "reponse_officielle": "A partir de 10 ans.",
+    "gradable": true,
+    "page_source": [
+      "23"
+    ],
+    "nb_occurrences": 1
+  },
+  {
+    "id": "SEC-023",
+    "categorie": "premiers_secours",
+    "question": "Pourquoi faut-il pratiquer immédiatement une réanimation cardio-pulmonaire sur une victime en arrêt cardiaque ?",
+    "reponse_officielle": "Car les lésions du cerveau surviennent dès les premières minutes.",
+    "gradable": true,
+    "page_source": [
+      "24",
+      "50"
+    ],
+    "nb_occurrences": 2
+  },
+  {
+    "id": "SEC-024",
+    "categorie": "premiers_secours",
+    "question": "Lors d'un appel avec les services de secours, pourquoi devez-vous attendre que votre correspondant vous autorise à raccrocher ?",
+    "reponse_officielle": "Car il peut nous conseiller ou nous guider dans la réalisation des gestes à faire, ou ne pas faire, jusqu'à l'arrivée des secours.",
+    "gradable": true,
+    "page_source": [
+      "27",
+      "46",
+      "83",
+      "90"
+    ],
+    "nb_occurrences": 4
+  },
+  {
+    "id": "SEC-025",
+    "categorie": "premiers_secours",
+    "question": "A quel moment pouvez-vous mettre fin à un appel avec les secours ?",
+    "reponse_officielle": "Uniquement lorsque notre correspondant nous invite à le faire.",
+    "gradable": true,
+    "page_source": [
+      "28",
+      "52",
+      "92"
+    ],
+    "nb_occurrences": 3
+  },
+  {
+    "id": "SEC-026",
+    "categorie": "premiers_secours",
+    "question": "Citez les trois manières d'évaluer l'état de conscience d'une victime.",
+    "reponse_officielle": "Lui poser des questions simples (\"comment ça va ?\", \"vous m'entendez ?\") ; lui secouer doucement les épaules ; lui prendre la main en lui demandant d'exécuter un geste simple (\"serrez-moi la main\").",
+    "gradable": true,
+    "page_source": [
+      "29",
+      "42",
+      "56",
+      "96"
+    ],
+    "nb_occurrences": 4
+  },
+  {
+    "id": "SEC-027",
+    "categorie": "premiers_secours",
+    "question": "Quels sont les risques pour une personne en perte de connaissance qui est allongée sur le dos ?",
+    "reponse_officielle": "L'arrêt respiratoire et l'arrêt cardiaque.",
+    "gradable": true,
+    "page_source": [
+      "30",
+      "49",
+      "93"
+    ],
+    "nb_occurrences": 3
+  },
+  {
+    "id": "SEC-028",
+    "categorie": "premiers_secours",
+    "question": "Pourquoi ne faut-il pas laisser une personne en perte de connaissance allongée sur le dos ?",
+    "reponse_officielle": "Car elle risque un étouffement par : des liquides présents dans la gorge ; la chute de la langue en arrière.",
+    "gradable": true,
+    "page_source": [
+      "35"
+    ],
+    "nb_occurrences": 1
+  },
+  {
+    "id": "SEC-029",
+    "categorie": "premiers_secours",
+    "question": "L'utilisation d'un Défibrillateur Automatisé (DAE) sur une victime qui n'est pas en arrêt cardiaque présente-t-elle un risque ?",
+    "reponse_officielle": "Non, car le défibrillateur se déclenche uniquement quand la victime est en arrêt cardiaque.",
+    "gradable": true,
+    "page_source": [
+      "36",
+      "60"
+    ],
+    "nb_occurrences": 2
+  },
+  {
+    "id": "SEC-030",
+    "categorie": "premiers_secours",
+    "question": "Qu'est-ce qu'une hémorragie ?",
+    "reponse_officielle": "C'est une perte de sang prolongée qui ne s'arrête pas. Elle imbibe de sang un mouchoir en quelques secondes.",
+    "gradable": true,
+    "page_source": [
+      "41",
+      "62"
+    ],
+    "nb_occurrences": 2
+  },
+  {
+    "id": "SEC-031",
+    "categorie": "premiers_secours",
+    "question": "Quels sont les signes d'un arrêt cardiaque ?",
+    "reponse_officielle": "La victime ne répond pas, ne réagit pas et ne respire pas ou présente une respiration anormale.",
+    "gradable": true,
+    "page_source": [
+      "43",
+      "91"
+    ],
+    "nb_occurrences": 2
+  },
+  {
+    "id": "SEC-032",
+    "categorie": "premiers_secours",
+    "question": "Qu'est ce qu'un défibrillateur automatisé externe (DAE) ?",
+    "reponse_officielle": "C'est un appareil qui peut permettre de rétablir une activité cardiaque normale à une victime en arrêt cardiaque.",
+    "gradable": true,
+    "page_source": [
+      "44",
+      "66",
+      "100"
+    ],
+    "nb_occurrences": 3
+  },
+  {
+    "id": "SEC-033",
+    "categorie": "premiers_secours",
+    "question": "Qu'est ce qu'un arrêt cardiaque ?",
+    "reponse_officielle": "Le cœur ne fonctionne plus ou fonctionne d'une façon anarchique.",
+    "gradable": true,
+    "page_source": [
+      "47"
+    ],
+    "nb_occurrences": 1
+  },
+  {
+    "id": "SEC-034",
+    "categorie": "premiers_secours",
+    "question": "Quel est le risque principal d'un arrêt cardiaque sans intervention des secours ?",
+    "reponse_officielle": "La mort de la victime qui survient en quelques minutes.",
+    "gradable": true,
+    "page_source": [
+      "48",
+      "53"
+    ],
+    "nb_occurrences": 2
+  },
+  {
+    "id": "SEC-035",
+    "categorie": "premiers_secours",
+    "question": "Quels sont les numéros d'urgence à appeler ?",
+    "reponse_officielle": "Le 18, numéro d'appel des sapeurs-pompiers ; le 15, numéro d'appel des SAMU ; le 112, numéro de téléphone réservé aux appels d'urgence et valide dans l'ensemble de l'Union Européenne.",
+    "gradable": true,
+    "page_source": [
+      "57"
+    ],
+    "nb_occurrences": 1
+  },
+  {
+    "id": "SEC-036",
+    "categorie": "premiers_secours",
+    "question": "Qu'est-ce qu'un arrêt cardiaque ?",
+    "reponse_officielle": "Le cœur ne fonctionne plus ou fonctionne d'une façon anarchique.",
+    "gradable": true,
+    "page_source": [
+      "63",
+      "99"
+    ],
+    "nb_occurrences": 2
+  },
+  {
+    "id": "SEC-037",
+    "categorie": "premiers_secours",
+    "question": "Quels sont les risques pour une personne victime d'une hémorragie ?",
+    "reponse_officielle": "Entraîner pour la victime une détresse circulatoire ou un arrêt cardiaque.",
+    "gradable": true,
+    "page_source": [
+      "64",
+      "88"
+    ],
+    "nb_occurrences": 2
+  },
+  {
+    "id": "SEC-038",
+    "categorie": "premiers_secours",
+    "question": "Quelles sont les précautions à prendre pour réaliser le dégagement d'urgence d'une victime en présence d'un danger réel, immédiat et non contrôlable ?",
+    "reponse_officielle": "La victime doit être visible, facile à atteindre et rien ne doit gêner son dégagement. Il faut être sûr(e) de pouvoir réaliser le dégagement de la victime.",
+    "gradable": true,
+    "page_source": [
+      "74"
+    ],
+    "nb_occurrences": 1
+  },
+  {
+    "id": "SEC-039",
+    "categorie": "premiers_secours",
+    "question": "En général, en cas de panne ou d'accident, où doit être placé le triangle de pré-signalisation ?",
+    "reponse_officielle": "Le triangle de pré-signalisation doit être placé à une distance d'environ 30 m de la panne ou de l'accident, ou avant un virage ou un sommet de côte.",
+    "gradable": true,
+    "page_source": [
+      "81"
+    ],
+    "nb_occurrences": 1
+  }
+]
